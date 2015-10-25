@@ -4,7 +4,7 @@
 // @description  PlugHKG iconpack loader for dubtrack
 // @author       Go2SchoolByBus
 // @match        https://www.dubtrack.fm/join/plug-hkg
-// @updateURL https://bus.wtako.net/plugdj/Script/PlugHKGDubLoader.js
+// @source https://raw.githubusercontent.com/fukingbus/plughkgdub/master/PlugHKGDubLoader.js
 // ==/UserScript==
 
  function load(){
