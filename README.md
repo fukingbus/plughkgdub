@@ -25,6 +25,8 @@ https://www.dubtrack.fm/join/plug-hkg
   * 安裝成功，進入PlugHKG Dubtrack 後於Chatroom將會顯示 **IconPack 載入完成**
   * 於輸入Icon時請加上 「**\`**」於icon code前，例如  **`[sosad]** 將會顯示 ![sosad](https://bus.wtako.net/plugdj/sosad.gif)
   * 稍後將會重新加入輸入面板(Panel)及其他功能
+
+
 ## 更新歷程 Changelog 
 
 26 OCT 2015 / v0.2
