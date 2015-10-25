@@ -13,7 +13,7 @@ https://www.dubtrack.fm/join/plug-hkg
    * Chrome 用戶應安裝 [Tempermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
    * FireFox 用戶應安裝 [Greasemonkey](https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/)
 2. 安裝完成後，請按 [這裡](https://raw.githubusercontent.com/fukingbus/plughkgdub/master/PlugHKGDubLoader.user.js) 安裝插件
-3. 插件管理擴充程式Tempermonkey或者Greasemonkey應該會提示閣下安裝，若沒有，請重新檢查安裝程序或依照以下步驟手動安裝
+3. 插件管理擴充程式 `Tempermonkey` 或 `Greasemonkey` 應會提示閣下安裝。若無提示，請重新檢查安裝程序或依照以下步驟手動安裝
 
 #### Chrome with Tempermonkey 手動安裝
   [![CHROME w/ Tempermonkey](http://img.youtube.com/vi/qXcjUC71LbQ/0.jpg)](http://www.youtube.com/watch?v=qXcjUC71LbQ)
