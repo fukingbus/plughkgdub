@@ -1,6 +1,8 @@
 # PlugHKGDub
 
-Additional features for PlugHKG on dubtrack.fm 
+Additional features for PlugHKG on dubtrack.fm
+
+
 為PlugHKG 增加更多功能
 
 https://www.dubtrack.fm/join/plug-hkg
@@ -14,7 +16,7 @@ TODO: Describe the installation process
 26 OCT 2015 / v0.1
 + HKG icon(s) implement
 + PlugHKG Xmas background replacement
-x many bugs
+⋅⋅* many bugs
 
 
 ## License
